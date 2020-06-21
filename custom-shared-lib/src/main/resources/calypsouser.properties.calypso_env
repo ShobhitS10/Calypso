@@ -1,0 +1,21 @@
+#Updated on Wed Apr 03 15:59:33 GMT 2019
+#Wed Apr 03 15:59:33 GMT 2019
+DATASERVER_NAMING_PROVIDER_URL=http-remoting\://localhost\:8100
+DATA_SERVER_NAME=luxoft-dev
+MiddleTierDBUSER=calypso
+MiddleTierDBPASSWORD=calypso
+ENGINESERVER_NAMING_PROVIDER_URL=http-remoting\://localhost\:8140,http-remoting\://localhost\:8620,http-remoting\://localhost\:8880,http-remoting\://localhost\:8900
+LLMEVENTSERVERURL=tcp\://localhost\:61617
+USE_POSITION_KEEPING_SERVER=true
+DRIVER=oracle.jdbc.OracleDriver
+CLIENTUSER=calypso_user13
+CLIENTPASSWD=
+PKPRESENTATIONEVENTSERVERURL=tcp\://localhost\:61618
+POSITIONKEEPINGSERVER_NAMING_PROVIDER_URL=http-remoting\://localhost\:8180,http-remoting\://localhost\:8220
+MiddleTierDRIVER=oracle.jdbc.OracleDriver
+LIQUIDITY_SERVER_BUS_URL=tcp\://localhost\:61620
+JMS_NAMING_PROVIDER_URL=http-remoting\://localhost\:8100
+RISKSERVER_NAMING_PROVIDER_URL=http-remoting\://localhost\:8160
+
+
+
